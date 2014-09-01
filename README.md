@@ -3,6 +3,13 @@ sublime-preferences
 
 Configurações que uso no sublime text
 
-Editor
+<h1>Editor</h1>
 
 Settings user <a target="_blank" href="https://github.com/viniciusmagalhaes/sublime-preferences/blob/master/Preferences.sublime-settings">configuração</a>
+
+<h1>Plugins</h1>
+
+- AutoFileName
+- Emmet
+- Side​Bar​Enhancements
+- Sass
