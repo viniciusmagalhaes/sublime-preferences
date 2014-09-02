@@ -13,3 +13,4 @@ Settings user <a target="_blank" href="https://github.com/viniciusmagalhaes/subl
 - Emmet
 - Side​Bar​Enhancements
 - Sass
+- Color Highlighter
