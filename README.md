@@ -12,5 +12,10 @@ Settings user <a target="_blank" href="https://github.com/viniciusmagalhaes/subl
 - AutoFileName
 - Emmet
 - Side​Bar​Enhancements
-- Sass
+- SCSS
 - Color Highlighter
+- Hayaku
+- SublimeLinter
+    - SublimeLinter-jshint
+    - SublimeLinter-scss-lint
+- CSS Comb
