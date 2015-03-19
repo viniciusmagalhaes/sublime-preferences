@@ -1,7 +1,6 @@
-sublime-preferences
-===================
+# Sublime preferences
 
-Configurações que uso no sublime text
+Configurações sublime text
 
 <h1>Editor</h1>
 
@@ -9,6 +8,7 @@ Settings user <a target="_blank" href="https://github.com/viniciusmagalhaes/subl
 
 <h1>Plugins</h1>
 
+- Alignment
 - AutoFileName
 - Emmet
 - Side​Bar​Enhancements
