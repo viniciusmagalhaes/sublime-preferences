@@ -1,21 +1,62 @@
 # Sublime preferences
 
-Configurações sublime text
+## Sublime text configuration
 
-<h1>Editor</h1>
+Settings user:
 
-Settings user <a target="_blank" href="https://github.com/viniciusmagalhaes/sublime-preferences/blob/master/Preferences.sublime-settings">configuração</a>
+```
+{
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "caret_extra_bottom": 3,
+    "caret_extra_top": 3,
+    "caret_extra_width": 2,
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "font_size": 12,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+    "material_theme_accent_lime": true,
+    "material_theme_disable_fileicons": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_small_tab": true,
+    "overlay_scroll_bars": "enabled",
+    "piatto_folder_icons": true,
+    "scroll_past_end": true,
+    "tab_completion": true,
+    "tab_size": 2,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": false,
+    "vintage_start_in_command_mode": true,
+    "word_wrap": false
+}
 
-<h1>Plugins</h1>
+```
+
+## Theme
+
+- Material-Theme
+
+## Plugins
 
 - Alignment
 - AutoFileName
-- Emmet
-- Side​Bar​Enhancements
-- SCSS
 - Color Highlighter
-- Hayaku
-- SublimeLinter
-    - SublimeLinter-jshint
-    - SublimeLinter-scss-lint
 - CSS Comb
+- Emmet
+- Git Gutter
+- GitStatus
+- Hayaku
+- Idiomatic CSS Comments Snippets
+- SCSS
+- Side​Bar​Enhancements
