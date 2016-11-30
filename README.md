@@ -37,6 +37,7 @@ Settings user:
     "theme": "Material-Theme.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": false,
+    "draw_white_space": "all",
     "vintage_start_in_command_mode": true,
     "word_wrap": false
 }
